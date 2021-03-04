@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# To see the project:
+https://axelbernat.github.io/todolistreact/
+
 ## Available Scripts
 
 In the project directory, you can run:
